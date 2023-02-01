@@ -1,11 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dhanuka Iroshan
-=======================================================================================================================================
+Hi 👋 My name is Dhanuka Iroshan
+================================
 
-Techie
-------
+Computer Science UG
+-------------------
 
 * 🌍  I'm based in Colombo
 * ✉️  You can contact me at [dhanukairoshan99@gmail.com](mailto:dhanukairoshan99@gmail.com)
+* 🧠  I'm learning php,javascript
 
 ### Skills
 
