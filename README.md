@@ -1,11 +1,10 @@
 Hi 👋 My name is Dhanuka Iroshan
 ================================
 
-Computer Science UG
+Trainee Software Engineer
 -------------------
 
 * ✉️  You can contact me at [dhanukairoshan99@gmail.com](mailto:dhanukairoshan99@gmail.com)
-* 🧠  I'm learning PHP, JavaScript
 
 ### Skills
 
