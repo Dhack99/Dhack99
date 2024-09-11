@@ -1,7 +1,7 @@
 Hi 👋 My name is Dhanuka Iroshan
 ================================
 
-Trainee Software Engineer
+Software Engineer
 -------------------
 
 * ✉️  You can contact me at [dhanukairoshan99@gmail.com](mailto:dhanukairoshan99@gmail.com)
